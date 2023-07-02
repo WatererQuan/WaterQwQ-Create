@@ -10,4 +10,5 @@ https://www.123pan.com/s/MWtDVv-fSYBH.html 提取码:CPJQ
   
 2.简单云链（直链）：  
 https://easylink.cc/e78eyb  
-  
+
+![整合包logo](https://s2.loli.net/2023/07/03/jGabV9Lck4AHX7M.png)
