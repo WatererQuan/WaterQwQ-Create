@@ -1,4 +1,5 @@
-# 欢迎来到WaterQwQ的机械动力整合包Github
+# Create-Project:Q | 机械动力：计划Q
+欢迎来到WaterQwQ的机械动力整合包Github
 你可以在这里下载到由WaterQwQ整合的  
 版本为Fabric 1.19.2 的  
 机械动力整合包  
