@@ -6,10 +6,9 @@
 Create-Project:Q  
   
 下载地址：  
-1. [GitHub](https://github.com/WatererQuan/WaterQwQ-Create/releases)  
+1. [GitHub](https://github.com/WatererQuan/WaterQwQ-Create/releases)  或点击右侧Releases
   
-2. [123云盘](https://www.123pan.com/s/MWtDVv-fSYBH.html)  
-   提取码:CPJQ  
+2. [123云盘](https://www.123pan.com/s/MWtDVv-fSYBH.html)  提取码:CPJQ  
   
 3. [简单云链（直链）（仅v2.5）](https://easylink.cc/e78eyb)  
   
